@@ -1,0 +1,6 @@
+{
+    "driver_path" : "/usr/lib/chromium-browser/chromedriver",
+    "link" : "https://dadosabertos.tce.mg.gov.br/view/xhtml/paginas/downloadArquivos.xhtml",
+    "max_process" : 2,
+    "parent_dir" : "/media/a3data/664aeb28-ecde-4f81-95c2-74eee6017f11/home/a3data/Documentos/TCE/data"
+}
